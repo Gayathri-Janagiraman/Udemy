@@ -23,8 +23,6 @@ udemy-clone/
 └── assets/
     └── images/
 
-[link]
-
 ## Purpose
 
 This project was created to practice front-end development skills using only core web technologies. It’s ideal for beginners who want to learn how to structure pages and style them to look like popular websites.
