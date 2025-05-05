@@ -1,4 +1,4 @@
-#  Udemy Clone (HTML & CSS Only)
+# Udemy Clone (HTML & CSS Only)
 
 A simple front-end clone of the Udemy homepage built using only HTML and CSS. This project replicates the structure and design of Udemy’s landing page, featuring basic animations and responsive layout techniques.
 
@@ -29,6 +29,6 @@ udemy-clone/
 
 This project was created to practice front-end development skills using only core web technologies. It’s ideal for beginners who want to learn how to structure pages and style them to look like popular websites.
 
-## 📬 Contact
+## Contact
 
-For questions or suggestions, feel free to open an issue or contact me via [LinkedIn](https://linkedin.com/in/your-profile) or email.
+For questions or suggestions, feel free to open an issue or contact me via [LinkedIn] (https://www.linkedin.com/in/gayathri-janagiraman7/).
